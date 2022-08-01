@@ -1,0 +1,2 @@
+# javaGit
+some practice demos
